@@ -1,6 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student (graduating 2026) specializing in Data Science and <br>Machine Learning. Skilled in transforming raw data into actionable insights through <br>advanced statistical analysis, supervised & unsupervised ML, and deep learning. <br>Experienced in building and optimizing ML models, with hands-on projects, internships, <br>and certifications. Passionate about applying AI to real-world problems and continuously <br>expanding technical expertise.
-
+Final-year Computer Science student (graduating 2026) specializing in Data Science and Machine Learning. Skilled in transforming raw data into actionable insights using advanced analytics, ML, and deep learning. Experienced in building and optimizing models through hands-on projects and internships. Passionate about applying AI to real-world problems and continuously expanding technical expertise.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebrahimzaherr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ebrahimzaher) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ebrahimzaherr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebrahimzaherr0@gmail.com) 
