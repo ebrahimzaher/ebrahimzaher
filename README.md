@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ebrahim+Zaher;Let+the+story+begin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Ebrahim+Zaher;Let+the+story+begin" alt="Typing SVG" />
 </h1>
 
 # 💫 About Me:
