@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ebrahim+Zaher;Let+the+story+begin" alt="Typing SVG" />
 </h1>
+
 # 💫 About Me:
 Generative AI & AI Agent Developer specializing in LLM applications, RAG systems, and intelligent AI workflows. Experienced in building multi-agent systems, fine-tuning open-source language models, and developing end-to-end AI applications using Python, LangChain, and modern LLM tooling. Passionate about designing scalable AI systems that solve real-world problems through automation, retrieval, and reasoning.
 
