@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Generative AI & AI Agent Developer specializing in LLM applications, RAG systems, and intelligent AI workflows. Experienced in building multi-agent systems, fine-tuning open-source language models, and developing end-to-end AI applications using Python, LangChain, and modern LLM tooling. Passionate about designing scalable AI systems that solve real-world problems through automation, retrieval, and reasoning.
+Applied AI Engineer specializing in Generative AI, LLM applications, RAG systems, and intelligent AI workflows. Experienced in building multi-agent systems, developing end-to-end AI applications, and fine-tuning open-source language models using Python, LangChain, LangGraph, and modern AI tooling. Skilled in integrating AI models with APIs and production backends, with a focus on scalable, reliable systems that solve real-world problems through automation, retrieval, and reasoning.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebrhiamzaherr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:://linkedin.com/in/ebrahimzaher) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ebrahimzaherr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebrahimzaherr0@gmail.com) 
