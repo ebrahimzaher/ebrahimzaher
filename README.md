@@ -9,6 +9,8 @@ Applied AI Engineer specializing in Generative AI, LLM applications, RAG systems
 
 **[🛡️ Aegis AI](https://github.com/ebrahimzaher/aegis-ai)** — Autonomous multi-agent customer support system. 6 LangGraph agents (Triage, RAG, tool-calling investigation, policy, resolution, critic) with a real human-in-the-loop pause via `interrupt()`, exposed through FastAPI and containerized with Docker.
 
+**[⚒️ DevForge AI](https://github.com/ebrahimzaher/devforge-ai)** — Stateful multi-agent code generation system. A 10-agent LangGraph pipeline (CEO → Analysis → PM → Parallel Coding → QA → Integration → Escalation) that transforms a plain-language request into a complete, multi-file codebase. Features parallel execution via `ThreadPoolExecutor`, a PM-generated shared API contract enforced across all agents, selective retry with targeted QA feedback, a FastAPI REST layer with async job tracking, and one-command deployment via Docker Compose + Ollama.
+
 **[🔎 DeepResearch AI](https://github.com/ebrahimzaher/deepresearch-ai)** — 6-agent LangGraph research pipeline (Summarizer → Planner → Researcher → Writer → Critic → Revision) shipped to production on HuggingFace Spaces, with citation-aware generation and a critic-scoring evaluation loop.
 
 ## 🌐 Socials:
