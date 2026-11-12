@@ -11,6 +11,8 @@ Applied AI Engineer specializing in Generative AI, LLM applications, RAG systems
 
 **[⚒️ DevForge AI](https://github.com/ebrahimzaher/devforge-ai)** — Stateful multi-agent code generation system. A 10-agent LangGraph pipeline (CEO → Analysis → PM → Parallel Coding → QA → Integration → Escalation) that transforms a plain-language request into a complete, multi-file codebase. Features parallel execution via `ThreadPoolExecutor`, a PM-generated shared API contract enforced across all agents, selective retry with targeted QA feedback, a FastAPI REST layer with async job tracking, and one-command deployment via Docker Compose + Ollama.
 
+**[🛒 ShopAssist AI](https://github.com/ebrahimzaher/shopassist-ai)** — Production RAG customer support agent for e-commerce. Built from scratch (no high-level RAG wrappers) with custom boundary-preserving text chunking, multilingual MiniLM embeddings, and Qdrant vector database with multi-tenant store isolation (`store_id` payload indexing). Features a hybrid retrieval engine combining dense semantic similarity, Arabic/English keyword overlap, and exact product-code regex boosting, deployed as an async Telegram bot powered by Groq-accelerated Llama-3 inference and containerized with Docker.
+
 **[🔎 DeepResearch AI](https://github.com/ebrahimzaher/deepresearch-ai)** — 6-agent LangGraph research pipeline (Summarizer → Planner → Researcher → Writer → Critic → Revision) shipped to production on HuggingFace Spaces, with citation-aware generation and a critic-scoring evaluation loop.
 
 ## 🌐 Socials:
@@ -20,7 +22,7 @@ Applied AI Engineer specializing in Generative AI, LLM applications, RAG systems
 
 **AI / LLM Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Backend & Infra**
 
